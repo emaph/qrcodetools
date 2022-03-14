@@ -12,7 +12,8 @@ I do not sell, transfer or share any personal data to any third part.
 
 The app needs the write and read file permissions in order to be used. This is needed in order to access your app gallery where your pictures can be stored.
 The pictures and data that used in this app will be stored in your local device only and they will be processed locally. 
-The app also needs to access your camera in order to read QR codes.
+
+The app also needs to access your camera in order to read QR codes. The camera is used only when asked by the user for the only purpose of reading a QR code and parsing the content.
 
 The app does use third party services that may collect information used to identify you or your device.
 The app includes AdMob in order to show personalized Ad banners. In particular, "Google can use the advertisment ID 
